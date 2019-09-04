@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rwustenberg/0702-npm#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "stripe": "^7.8.0"
   }
 }
